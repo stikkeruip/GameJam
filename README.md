@@ -1,0 +1,3 @@
+# GameJam
+
+INSERT GAME PARAMETERS
